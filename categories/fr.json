@@ -1,0 +1,112 @@
+[
+    {
+        "id": "micro-v2-household-utilities",
+        "name": "Logement & Charges",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-household-utilities.jpeg"
+    },
+    {
+        "id": "micro-v2-travel-holidays",
+        "name": "Voyages & Vacances",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-travel-holidays.jpeg"
+    },
+    {
+        "id": "micro-v2-tax-fines",
+        "name": "Taxes & Amendes",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-tax-fines.jpeg"
+    },
+    {
+        "id": "micro-v2-media-electronics",
+        "name": "Multimédia & Electronique",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-media-electronics.jpeg"
+    },
+    {
+        "id": "micro-v2-subscriptions-donations",
+        "name": "Abonnements & Donations",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-subscriptions-donations.jpeg"
+    },
+    {
+        "id": "micro-v2-transport-car",
+        "name": "Transport & Voiture",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-transport-car.jpeg"
+    },
+    {
+        "id": "micro-v2-leisure-entertainment",
+        "name": "Loisirs & Divertissement",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-leisure-entertainment.jpeg"
+    },
+    {
+        "id": "micro-v2-education",
+        "name": "Éducation",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-education.jpeg"
+    },
+    {
+        "id": "micro-v2-cash26",
+        "name": "Cash26",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-cash26.jpeg"
+    },
+    {
+        "id": "micro-v2-income",
+        "name": "Revenus",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-income.jpeg"
+    },
+    {
+        "id": "micro-v2-family-friends",
+        "name": "Famille & Amis",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-family-friends.jpeg"
+    },
+    {
+        "id": "micro-v2-shopping",
+        "name": "Shopping",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-shopping.jpeg"
+    },
+    {
+        "id": "micro-v2-food-groceries",
+        "name": "Courses & Alimentation",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-food-groceries.jpeg"
+    },
+    {
+        "id": "micro-v2-atm",
+        "name": "Retrait",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-atm.jpeg"
+    },
+    {
+        "id": "micro-v2-healthcare-drugstores",
+        "name": "Santé & Pharmacie",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-healthcare-drugstores.jpeg"
+    },
+    {
+        "id": "micro-v2-savings-investments",
+        "name": "Épargne & Investissements",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-savings-investments.jpeg"
+    },
+    {
+        "id": "micro-v2-bars-restaurants",
+        "name": "Restaurants & Bars",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-bars-restaurants.jpeg"
+    },
+    {
+        "id": "micro-v2-salary",
+        "name": "Salaire",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-salary.jpeg"
+    },
+    {
+        "id": "micro-v2-n26-referrals",
+        "name": "N26 Referrals",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-n26-referrals.jpeg"
+    },
+    {
+        "id": "micro-v2-business",
+        "name": "Dépenses d'entreprise",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-business.jpeg"
+    },
+    {
+        "id": "micro-v2-insurances-finances",
+        "name": "Assurance & Finances",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-insurances-finances.jpeg"
+    },
+    {
+        "id": "micro-v2-miscellaneous",
+        "name": "Autres",
+        "backgroundUrl": "https://cdn.number26.de/images/categories/micro-v2-miscellaneous.jpeg"
+    }
+]
