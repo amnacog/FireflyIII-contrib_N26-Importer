@@ -11,13 +11,15 @@ from n26 import config
 
 load_dotenv();
 
-def writeLog(infos, e):
+def printLog(infos, e = ""):
     print(e)
     f = open("debug.log", "a")
-    f.write('--------------------')
+    f.write('\r\n------Start Log------\r\n')
     if e:
         f.write(str(e))
+        f.write('\r\n')
     f.write(json.dumps(infos))
+    f.write('\r\n+++++++End Log+++++++\r\n')
     f.close()
 
 def main(cat_mappings):
@@ -29,6 +31,7 @@ def main(cat_mappings):
     # -5min
     minus5 = int(now - 3E5)
     print(minus5, now)
+
     response = client.get_transactions(limit=200, from_time=minus5, to_time = now)
 
     print(datetime.fromtimestamp(math.floor(minus5/1E3)), '-', datetime.fromtimestamp(math.floor(now/1E3)))
@@ -50,7 +53,7 @@ def main(cat_mappings):
             is_debit = transaction["amount"] < 0
 
             payload = {
-                'type': "withdrawal",
+                'type': "withdrawal" if is_debit else "deposit",
                 'external_id': transaction["linkId"],
                 'date': transaction_time,
                 'amount': abs(transaction["amount"]),
